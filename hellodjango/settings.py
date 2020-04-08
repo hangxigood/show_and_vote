@@ -200,7 +200,7 @@ CACHES = {
     'default': {
         'BACKEND': 'django_redis.cache.RedisCache',
         'LOCATION': [
-            'redis://1.2.3.4:6379/0',
+            'redis://127.0.0.1:6379/0',
         ],
         'KEY_PREFIX': 'teamproject',
         'OPTIONS': {
