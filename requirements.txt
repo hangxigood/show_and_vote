@@ -2,7 +2,7 @@ asgiref==3.2.5
 certifi==2019.11.28
 chardet==3.0.4
 Django==3.0.4
-django-debug-toolbar==2.2
+django-debug-toolbar==2.2.1
 django-redis==4.11.0
 idna==2.9
 mysqlclient==1.4.6
